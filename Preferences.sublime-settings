@@ -1,5 +1,5 @@
 {
-	"always_show_minimap_viewport": true,
+	"always_show_minimap_viewport": false,
 	"auto_find_in_selection": true,
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Solarized Light.tmTheme",
