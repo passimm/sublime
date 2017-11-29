@@ -2,7 +2,7 @@
 	"always_show_minimap_viewport": false,
 	"auto_find_in_selection": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/ayu/ayu-light.tmTheme",
+	"color_scheme": "Packages/Theme - Monokai+/Monokai+.tmTheme",
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -12,7 +12,7 @@
 		"obj"
 	],
 	"font_face": "Ubuntu Mono",
-	"font_size": 11,
+	"font_size": 15,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -27,8 +27,9 @@
 	"overlay_scroll_bars": "enabled",
 	"show_minimap": false,
 	"tab_size": 4,
-	"theme": "ayu-light.sublime-theme",
+	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"vintage_ctrl_keys": true,
-	"vintage_start_in_command_mode": true
+	"vintage_start_in_command_mode": true,
+	"soda_classic_tabs": true
 }
