@@ -11,11 +11,12 @@
 		"CVS",
 		"obj"
 	],
-	"font_face": "Ubuntu Mono",
+	"font_face": "consolas",
 	"font_size": 15,
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Material Theme"
 	],
 	"indent_guide_options":
 	[
@@ -26,10 +27,10 @@
 	"line_padding_top": 3,
 	"overlay_scroll_bars": "enabled",
 	"show_minimap": false,
+	"soda_classic_tabs": true,
 	"tab_size": 4,
 	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"vintage_ctrl_keys": true,
-	"vintage_start_in_command_mode": true,
-	"soda_classic_tabs": true
+	"vintage_start_in_command_mode": true
 }
