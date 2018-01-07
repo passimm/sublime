@@ -13,7 +13,7 @@
 		"CVS",
 		"obj"
 	],
-	"font_face": "ubuntu-mono",
+	"font_face": "consolas",
 	"font_size": 15,
 	"highlight_line": true,
 	"ignored_packages":
