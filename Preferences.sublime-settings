@@ -1,4 +1,6 @@
 {
+	"scroll_past_end": true,
+    "word_wrap": true,
 	"always_show_minimap_viewport": false,
 	"auto_find_in_selection": true,
 	"bold_folder_labels": true,
